@@ -182,7 +182,7 @@ export default function Home() {
                           3. One-Click Deploy
                         </div>
                         <div className="text-gray-600 mt-2">
-                          That's it, we promise. No complex dev ops, bloated
+                          That is it, we promise. No complex dev ops, bloated
                           pipelines, or unreadable errors. Just Ship It!
                         </div>
                       </div>
